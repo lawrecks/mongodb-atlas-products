@@ -1,0 +1,24 @@
+[
+    {
+        "name": "fetchUsersByStatus",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "logNewUser",
+        "private": true
+    },
+    {
+        "name": "addUser",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "FetchProducts",
+        "private": false,
+        "run_as_system": true,
+        "disable_arg_logs": true
+    }
+]
