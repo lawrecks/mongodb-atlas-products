@@ -12,3 +12,6 @@ This app is built using MongoDB Atlas App Services. It provides APIs for managin
 1. Clone the repository.
 2. Set up MongoDB Atlas services.
 3. Deploy the functions and triggers.
+
+## API Documentation
+https://documenter.getpostman.com/view/10148336/2sAYBYeq6T
